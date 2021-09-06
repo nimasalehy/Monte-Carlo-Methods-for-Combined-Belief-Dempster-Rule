@@ -1,7 +1,7 @@
 # Monte-Carlo-Methods-for-Combined-Belief-Dempster-Rule
 
-
-MainPart1new.py:
+ 
+# MainPart1new.py:
 # ================================
 # By Nima Salehy.
 # Modified on Sep 6, 2021
@@ -15,8 +15,8 @@ MainPart1new.py:
 #    2. Uniformly generate nfoc numbers between 0 and 1.  Then, normalize them and assign them as the mass values to the focal sets.
 # ================================
 
-
-MainPart2new.py:
+ 
+# MainPart2new.py:
 # ================================
 # By Nima Salehy.
 # Modified on Sep 6, 2021
