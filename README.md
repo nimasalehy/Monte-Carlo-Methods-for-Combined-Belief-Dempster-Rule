@@ -6,7 +6,7 @@
 
 By Nima Salehy.
 
-Modified on Sep 6, 2021
+Modified on Nov 26, 2021
 
 Used to produce the numerical results in the following paper:
 
@@ -14,7 +14,7 @@ Used to produce the numerical results in the following paper:
 
 ================================
 
-Estimating bel(A) using different algorithms by MC, and compare their RMSEs and running times
+Estimating bel(A) using different algorithms by MC, and compare their Relative RMSEs and running times
 
 Algorithm for calculating bel(A) exactly is based on Wilson 2000 paper
 
@@ -30,7 +30,7 @@ Also, each mass function is generated randomly as follows:
 
 By Nima Salehy.
 
-Modified on Sep 6, 2021
+Modified on Nov 26, 2021
 
 Used to produce the numerical results in the following paper:
 
@@ -46,7 +46,7 @@ Also, each mass function is generated randomly as follows:
    1. Form the powerset of the frame of discernment, and randomly select nfoc (number of focal sets which is fixed) of its elements
    2. Uniformly generate nfoc numbers between 0 and 1.  Then, normalize them and assign them as the mass values to the focal sets.
 
-Plotting RMSE's in log-log scale for comparing RQMC and MC
+Plotting Relative RMSE's in log-log scale for comparing RQMC and MC
 
 Random shifted Sobol is used for RQMC
 
